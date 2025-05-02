@@ -9,7 +9,7 @@ export default function Footer() {
           <h3 className="font-semibold text-green-700 mb-2">Project</h3>
           <a
             className="flex items-center gap-2 text-sm text-gray-600 hover:text-green-700 hover:underline hover:underline-offset-4"
-            href="https://shashankrajak.in/projects/tomato-leaf-disease-detection"
+            href="https://shashankrajak.in/projects/tomato-disease-detection"
             target="_blank"
             rel="noopener noreferrer"
           >
